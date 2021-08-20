@@ -19,4 +19,5 @@ You are required to model the data with relevant relationships.
 [Trips](files/trips.json)
 
 
-Create and api for 
+Create an api that serves the data above.
+Feel free to design the API in any way that may help you archive the requirements of the frontend.
