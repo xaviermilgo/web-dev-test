@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Turner-Griffin",
+    "address": "4069 Harrison Islands\nThomasport, WA 90050",
+    "uuid": "be546d2a-eec0-4a29-9e74-80c9d817f267"
+  },
+  {
+    "name": "Robinson Ltd Hotel",
+    "address": "678 Christian Park\nMoodyside, PA 94479",
+    "uuid": "4bba9168-86c3-4401-94af-344dfb107654"
+  },
+  {
+    "name": "Gibbs Ltd Hotel",
+    "address": "962 Rebecca Mount\nEast Stuart, PA 29761",
+    "uuid": "8e3fb4f8-9754-4804-b922-d6e21f092604"
+  },
+  {
+    "name": "Smith-Gibson Hotel",
+    "address": "432 Lopez Road\nLake Andrea, TN 90326",
+    "uuid": "a7d7487f-8bef-4169-b14b-1139c67c63ce"
+  },
+  {
+    "name": "Johnson-Harrison Hotel",
+    "address": "902 Williams Walks\nMckaymouth, ME 91818",
+    "uuid": "4d687df5-a4d4-4bcf-88b1-81cd1b8a5380"
+  },
+  {
+    "name": "Carpenter Group Hotel",
+    "address": "588 Brittany Terrace\nPort Andrew, NY 53324",
+    "uuid": "2335ca2e-12c8-4c00-a8c8-c75474c36c0a"
+  },
+  {
+    "name": "Lawson and Sons",
+    "address": "420 Nancy Branch\nLake Sarafurt, SD 49545",
+    "uuid": "befdd958-1931-4389-bc9b-9c3892728fdf"
+  },
+  {
+    "name": "Patterson-Ortiz Hotel",
+    "address": "227 Bond Falls Apt. 247\nKevinberg, NH 67427",
+    "uuid": "7ac1f5f4-402b-45c1-b641-bd47df8640d2"
+  },
+  {
+    "name": "Jenkins, Leonard and Curry",
+    "address": "67814 Chase Knoll Apt. 672\nEast Jessica, OH 07454",
+    "uuid": "bb786cce-dd65-4b8f-a71d-a5c71a0608fa"
+  },
+  {
+    "name": "Baker, Stewart and Green Hotel",
+    "address": "06777 Angelica Meadows Suite 266\nEast Laurenton, DE 11906",
+    "uuid": "8555dca1-2132-45f6-a1fc-0754744bc3bb"
+  },
+  {
+    "name": "Warren and Sons Hotel",
+    "address": "79582 Anthony Union\nElliottfort, NC 49885",
+    "uuid": "cc668f90-1c39-4809-9c23-5dc1e890fff3"
+  },
+  {
+    "name": "Anderson-Rose Hotel",
+    "address": "96808 Harrison Cliffs Apt. 054\nBakermouth, MN 37189",
+    "uuid": "4e8f73a4-dd76-4d69-a64f-a10bc0aa7a84"
+  },
+  {
+    "name": "Clark, Brandt and Kerr Hotel",
+    "address": "Unit 4117 Box 3783\nDPO AA 81715",
+    "uuid": "cbd49b7d-f7fa-4536-893d-594c0d80024f"
+  },
+  {
+    "name": "Brown, Parks and Payne Hotel",
+    "address": "061 Johnson Avenue\nEmmashire, DC 50784",
+    "uuid": "ee9677f8-90a1-455d-b21b-663285ecb438"
+  },
+  {
+    "name": "Dennis LLC",
+    "address": "683 Christine Locks Suite 815\nSimsmouth, OK 87089",
+    "uuid": "eb7b230d-d966-4b35-8640-6882e2a86c62"
+  },
+  {
+    "name": "Robbins-Lynch",
+    "address": "3870 Reynolds Ranch Suite 560\nSouth Adrian, MS 48949",
+    "uuid": "171f1d9b-6076-46f1-9e6b-64a2419c7a9e"
+  },
+  {
+    "name": "Molina, Solis and Kerr Hotel",
+    "address": "835 Reyes Lights\nJesseside, KS 57057",
+    "uuid": "36b89aee-24b9-41f9-9867-77f66ce73ad6"
+  },
+  {
+    "name": "Phillips, Jones and Russell",
+    "address": "514 Susan Meadows\nKimberlyland, LA 52202",
+    "uuid": "be8fe719-486a-415f-a81e-2d5144a42b2a"
+  },
+  {
+    "name": "Brown Inc",
+    "address": "PSC 6021, Box 6360\nAPO AA 71112",
+    "uuid": "7baa3aa7-bd02-495b-862d-12106fc5549e"
+  },
+  {
+    "name": "Black-Murillo",
+    "address": "956 Heather Stream\nLake Rachel, VT 69815",
+    "uuid": "a5dfdff6-bf3e-4f67-aecd-fbbcd066b96a"
+  },
+  {
+    "name": "Serrano and Sons",
+    "address": "2117 Albert Common Suite 073\nPort Angelica, KY 50976",
+    "uuid": "30abe03b-485e-4346-9192-79ab469ce284"
+  },
+  {
+    "name": "Duncan-Lopez Hotel",
+    "address": "498 Cassandra Hills\nLake Stevenmouth, NJ 96109",
+    "uuid": "022b0eec-811c-46d5-baa3-8960772dddae"
+  },
+  {
+    "name": "Sweeney-Reyes",
+    "address": "1069 Shah Glen Apt. 427\nJosephfurt, VA 92813",
+    "uuid": "058cbdc6-850f-4d76-b01f-5c50db82e005"
+  },
+  {
+    "name": "Gonzales, Martinez and Mercado",
+    "address": "4640 Barr Burgs\nLake Jennifer, WY 73750",
+    "uuid": "3125a189-82b9-4619-869d-21517d74050f"
+  },
+  {
+    "name": "Knox LLC Hotel",
+    "address": "4444 Brock Island Apt. 602\nWattsville, WY 41221",
+    "uuid": "586387ff-b906-4e13-84d9-e3a010e023bf"
+  },
+  {
+    "name": "Farmer, Mendez and Moore Hotel",
+    "address": "2416 Rosales Course\nEast Lisa, ND 97197",
+    "uuid": "e47a2195-14a6-4a38-bd64-c64b39b46115"
+  },
+  {
+    "name": "Montgomery-Lopez",
+    "address": "3570 Carpenter Highway Suite 502\nPort Emma, IN 70670",
+    "uuid": "1125c4c4-2d43-4872-8eb0-38a4f616c48e"
+  },
+  {
+    "name": "Knapp, Thompson and Wells Hotel",
+    "address": "94194 Boyd Trail Apt. 721\nPhillipbury, RI 62765",
+    "uuid": "d21b01a7-9ee6-4f6e-9844-d12c1e82dc5e"
+  },
+  {
+    "name": "Bartlett, Leach and Smith",
+    "address": "PSC 2312, Box 8010\nAPO AP 99039",
+    "uuid": "22e0ba04-4ff1-41fb-9584-e67c234e9fc1"
+  },
+  {
+    "name": "Wilson-Sandoval Hotel",
+    "address": "69442 Howard Drive\nLake Barbara, WI 47846",
+    "uuid": "9e88de9e-6e09-4f8c-a4ac-de4ecc48aa49"
+  },
+  {
+    "name": "Nguyen, Cox and Bryan Hotel",
+    "address": "72176 Lauren Prairie\nLeahberg, NC 71495",
+    "uuid": "e7a2758e-0cda-474a-bdaf-870ffa909e8d"
+  },
+  {
+    "name": "Morrow-Wilson Hotel",
+    "address": "41993 Rodriguez Overpass Suite 458\nNew Stephenburgh, MI 71179",
+    "uuid": "5e4572cb-57d8-4254-9c3c-cf59efea87af"
+  },
+  {
+    "name": "Estrada, Davidson and Hunt",
+    "address": "230 Perry Curve\nLake Ashley, OR 87374",
+    "uuid": "aabacc66-1dd0-47fc-839f-73d039c93fc3"
+  },
+  {
+    "name": "Smith, Vargas and Baker",
+    "address": "446 Laura Viaduct\nTimothyville, DE 18446",
+    "uuid": "ab11e6f8-3b8f-47eb-96a1-37794992fcfc"
+  },
+  {
+    "name": "Dorsey-Johnson Hotel",
+    "address": "46727 Daniel Expressway Apt. 935\nNorth Alexanderburgh, MN 32346",
+    "uuid": "dbfe7d44-03a4-4074-9e61-d5a057e48bc6"
+  },
+  {
+    "name": "Ramirez, Nguyen and Taylor",
+    "address": "7532 Anderson Isle\nMarissamouth, AR 54362",
+    "uuid": "4367e65c-af17-4a1f-9c4b-cfb50dff367e"
+  },
+  {
+    "name": "Brown Ltd",
+    "address": "1779 Kramer Forks Apt. 611\nLake Angelaview, NV 17121",
+    "uuid": "33ad7a55-7949-419a-a831-6116899713b5"
+  },
+  {
+    "name": "Harvey LLC",
+    "address": "5436 Gonzalez Unions Suite 583\nEast Felicia, WA 50394",
+    "uuid": "ec2cbbbd-73a7-463d-9778-617356ed9c93"
+  },
+  {
+    "name": "Watson Group",
+    "address": "7232 Keith Loop Apt. 561\nNew Michael, AL 88830",
+    "uuid": "910103ba-4c0d-488f-b872-54bb1d4074a4"
+  },
+  {
+    "name": "Oneal, Calderon and Mcdaniel",
+    "address": "172 Andrew Roads Apt. 144\nNew Aaronland, IN 43250",
+    "uuid": "ac5a3e29-e99e-47f8-be3c-a5f5ef6c48ac"
+  },
+  {
+    "name": "Wright, Davis and Knox Hotel",
+    "address": "0155 White Ranch\nTylerland, VA 83067",
+    "uuid": "97150782-c6c1-443e-8f35-3c78da8adc9e"
+  },
+  {
+    "name": "Wallace, Jones and Collier Hotel",
+    "address": "PSC 2515, Box 6252\nAPO AA 28653",
+    "uuid": "85e85c6f-ca8c-4831-9a54-d7f76ef713e5"
+  },
+  {
+    "name": "Walker-Pacheco Hotel",
+    "address": "2300 Marshall Prairie\nJohnfort, AL 50246",
+    "uuid": "c42b054a-c817-415f-b667-2c5ff25493bf"
+  },
+  {
+    "name": "Harrison, Gilbert and Green Hotel",
+    "address": "17584 Williams Mission Apt. 305\nJoshuafort, MI 74840",
+    "uuid": "46f38c63-6bcb-413b-8cd3-c572a6775e76"
+  },
+  {
+    "name": "Williams-Estrada",
+    "address": "8227 Candice Divide Suite 624\nPatriciachester, TN 93444",
+    "uuid": "668dc059-0c80-47f8-8656-eb5fd83ce5c8"
+  },
+  {
+    "name": "Alvarez-Franklin",
+    "address": "00293 Hooper Road Suite 229\nPort Seth, WY 09641",
+    "uuid": "e0782c1b-28fa-4b1e-8524-440967e23235"
+  },
+  {
+    "name": "Thomas-Griffith",
+    "address": "706 John Circle Suite 482\nLake Kimberlychester, TN 25861",
+    "uuid": "2957ebd1-76eb-4476-91d8-2cef47996aee"
+  },
+  {
+    "name": "Robertson-Vega Hotel",
+    "address": "PSC 9596, Box 1718\nAPO AE 87609",
+    "uuid": "2c79a3d5-9d4e-4715-b03c-47254590170a"
+  },
+  {
+    "name": "Nelson Inc",
+    "address": "3489 Matthew Motorway Suite 481\nJessemouth, MI 34531",
+    "uuid": "aed71a96-070d-4a24-a3ac-a2751596d6c0"
+  },
+  {
+    "name": "Williams-Gonzalez",
+    "address": "0672 John Lock\nJeffreyborough, AL 23520",
+    "uuid": "47bb620a-e246-4d8f-88c3-5f8b8985d494"
+  }
+]
