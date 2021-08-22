@@ -21,3 +21,19 @@ You are required to model the data with relevant relationships.
 
 Create an api that serves the data above.
 Feel free to design the API in any way that may help you archive the requirements of the frontend.
+
+
+### Frontend
+
+Using a framework of your choice, consume the api you created above and render a graph showing the number of trips taken
+by all drivers over a period of time.
+The user should be able to filter by:
+ - Time range  (from and to)
+ - Driver
+ - Hotel
+ - Rating (range)
+
+ By default, the time range is set to the last thirty days and no hotel, rating or driver is selected.
+
+ Below the graph, show a paginated table of all the trips that match the filter.
+ The columns of the table should contain the driver name, hotel name, duration and rating.
