@@ -1,39 +1,30 @@
 # Web development challenge
-In the following challenge, you will be required to build a backend and frontend service.
-You are allowed to use any technologies / framework that you are comfortable with.
-Additional support files can be found in the `/files` folder on this repository.
+In the following challenge, you will be required to design and build a frontend rendering data from the `files` folder.
 
 ## Introduction
-You are tasked with importing, serving and visualizing data from a food delivery center.
-The backend should be able to import driver, trip and hotel data found in the `/files` folder.
-It should serve this data on a rest api. The frontend should pull the data from this api and show it
-in a table and a graph tracking number of deliveries over time. It should also allow the user to
-filter based on hotel, driver and time range.
+You are tasked with designing and creating an interface  to visualize data from a food delivery center.
 
-### Backend Api
-Using a language and framework of your choice, import the data from the json files below into a SQL database.
-You are required to model the data with relevant relationships. 
-
-[Drivers](files/drivers.json)
-[Hotels](files/hotels.json)
-[Trips](files/trips.json)
+The test data is available in the `files` folder.
+The frontend should use the data from this folder and show it in a table and a graph tracking number of deliveries over time. It should also allow the user to filter based on hotel, driver and time range.
 
 
-Create an api that serves the data above.
-Feel free to design the API in any way that may help you archive the requirements of the frontend.
+### Frontend design
 
+Using Figma or a design tool of you choosing, design a dashboard for both mobile and desktop view that shows the following:
+- User can see a table of deliveries showing driver name, hotel name, rating, start time and end time. The table should have filters for driver name, hotel name, start time (from and to) and end time (from and to)
+- A visualization that shows top rated drivers (based on average rating) filterable by hotel name. You can choose a valid representation of this data.
+- A visualization that shows number of trips taken over time filterable by driver and hotel. You can choose a valid representation of this data.
 
 ### Frontend
 
-Using a framework of your choice, consume the api you created above and render a graph showing the number of trips taken
-by all drivers over a period of time.
-The user should be able to filter by:
- - Time range  (from and to)
- - Driver
- - Hotel
- - Rating (range)
+Using a react js and chart js, implement the designs created above using the data from the `files` folder.
 
- By default, the time range is set to the last thirty days and no hotel, rating or driver is selected.
+ By default, the time range should be set to the last thirty days and no hotel or driver should be selected. When no hotel / driver is selected, show data from all hotels / drivers.
 
- Below the graph, show a paginated table of all the trips that match the filter.
- The columns of the table should contain the driver name, hotel name, duration and rating.
+
+## Submission or Questions
+After completion of designs, share the figma doc to account `xavier@novek.io` and share the link via email as well.
+
+After completing the frontend, push it to github and share the link via email to `xavier@novek.io`
+
+For any questions and clarifications, feel free to contact me via email or text.
