@@ -1,5 +1,3 @@
 .idea/
-venv/
 *.pyc
 __pycache__/
-files/fake-data.py
